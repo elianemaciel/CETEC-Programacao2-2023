@@ -20,3 +20,12 @@ print(l)
 l.append("j")
 if "j" in l:
     print(l, ", j esta na lista")
+
+    
+    
+num = [1,2,3,4,5,6,7,8]
+max = max(num)
+print(max)
+
+sum = sum(num)
+print(sum)

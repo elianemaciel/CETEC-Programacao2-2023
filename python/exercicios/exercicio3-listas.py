@@ -11,3 +11,12 @@ while(n!=0):
     nomes.append(n)
     cont=cont+1
 print(cont)
+
+
+
+l=["e","a","f","g","b","c","d"]
+l.sort()
+print(l)
+l.append("j")
+if "j" in l:
+    print(l, ", j esta na lista")

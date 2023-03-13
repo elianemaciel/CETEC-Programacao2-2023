@@ -24,8 +24,8 @@ if "j" in l:
     
     
 num = [1,2,3,4,5,6,7,8]
-max = max(num)
-print(max)
+maior = max(num)
+print(maior)
 
-sum = sum(num)
-print(sum)
+soma = sum(num)
+print(soma)

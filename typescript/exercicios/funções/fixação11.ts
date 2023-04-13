@@ -7,7 +7,7 @@ const calculateFactorial = (n: number) => {
     return 1
   }
   // para a lógica ficar correta deve-se remover o = da condição do for i <= 0 para i < 0 
-  for (let i = n -1; i < 0; i++) {
+  for (let i = n -1; i > 0; i--) {
     n *=  i
   }
   return n

@@ -24,6 +24,8 @@ console.log(calculo(6, 7))
 
 ```
 
+[Codigo exercicio-1](funções/fixa%C3%A7%C3%A3o1.ts)
+
 - Como podemos adicionar parâmetros default (padrão) na função abaixo? Altere a função abaixo colocando como default os paramentros: 3 meses e taxa de 10%.
 
 ```
@@ -36,6 +38,8 @@ console.log("Calculando o juros de R$ 100,00 a 5 % por 3 meses")
 console.log(`R$ ${calculoJuros(100.0, 5, 3)}`)
 
 ```
+[Codigo exercicio-3](funções/fixa%C3%A7%C3%A3o3.ts)
+
 - O código abaixo possui alguns erros, identifique, corrija-os e submeta o código com as correções:
 
 ```
@@ -53,3 +57,5 @@ const n = 5;
 const factorial = calculaFactorial(n);
 console.log(`O fatorial de ${n} é ${factorial}`)
 ```
+
+[Codigo exercicio-11](funções/fixa%C3%A7%C3%A3o11.ts)

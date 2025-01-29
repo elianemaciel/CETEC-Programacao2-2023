@@ -1,8 +1,6 @@
 
-![Logo CETEC Vertical PNG.png](Logo_CETEC.png)
-
 <div align="center">
-  <img src="Logo_CETEC.png">
+  <img width="200px" src="Logo_CETEC.png">
 </div>
 
 # CETEC-2023-programacao2

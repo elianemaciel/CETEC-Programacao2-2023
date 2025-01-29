@@ -1,3 +1,6 @@
+
+![<Logo CETEC>](Logo CETEC Vertical PNG.png)
+
 # CETEC-2023-programacao2
 Este repositório contém exemplos desenvolvidos em aula para a turma de Programação 2 do curso Técnico em Informática do CETEC, turma de 2023.
 
